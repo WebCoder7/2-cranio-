@@ -1,0 +1,639 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+header {
+    background: url(./img/Rectangle\ 70.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 140px;
+}
+
+
+
+.golog {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.05em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #FFFFFF;
+}
+
+
+.holgg {
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
+
+
+.stop {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 17px;
+    color: white;
+}
+
+
+.kook {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+.join {
+    margin-bottom: 20px;
+}
+
+
+.lola {
+    padding: 6px 30px;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    background: transparent;
+    border-radius: 50px;
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+
+
+.dada {
+    font-weight: 700;
+    font-size: 96.3892px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+
+.gullola {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    margin-bottom: 75px;
+}
+
+
+.malone {
+    font-size: 20px;
+    padding: 20px 23px;
+    background: transparent;
+    border-radius: 70px;
+    text-align: center;
+    border: 1px solid;
+    margin-bottom: 90px;
+}
+
+
+.fa-sharp {
+    color: white;
+}
+
+
+.hilola {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
+
+
+.font_awesome {
+    display: flex;
+}
+
+
+.btn2 {
+    padding: 15px 40px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #232323;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 99px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-bottom: 150px;
+}
+
+
+.dadaxon{
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+
+.toyota{
+    display: flex;
+    justify-content: center;
+}
+
+
+.daydiqoz{
+    margin-bottom: 140px;
+    margin-left: 90px;
+}
+
+
+.jasmina{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+}
+
+
+.laylo{
+    margin-left: 100px;
+}
+
+
+.yashil{
+    margin-top: 40px;
+    display: flex;
+}   
+
+
+.nuqta{
+    height: 48px;
+    width: 48px;
+}
+
+
+.gulsapsar{
+    margin-left: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #232323;
+}
+
+
+.jahongir{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+}
+
+
+.dadajonlar{
+    margin-left: 85px;
+    margin-bottom: 50px;
+}
+
+
+.shirin{
+    margin-top: 30px;
+}
+
+
+.bigimage{
+    margin-left: 60px;
+    margin-bottom: 150px;
+}
+
+
+.nizomiddin_koko{
+    width: 960px;
+    height: 652px;
+    left: 220px;
+    top: 2085px;
+    background: linear-gradient(90deg, #E0C3FC 0%, #8EC5FC 100%);
+    border-radius: 30px;
+    margin-bottom: 150px;
+}
+
+
+.jamshid{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+.rohid{
+    width: 419px;
+    height: 40px;
+    margin-left: 70px;
+    border: none;
+    border-radius: 50px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+
+.farangiz{
+    padding: 14px 35px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background: #232323;
+    border-radius: 99px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-bottom: 30px;
+}
+
+
+.sevinch{
+    display: flex;
+}
+
+
+.mushtatiy{
+    margin-top: 45px;
+    margin-left: 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #232323;
+}
+
+
+.doston{
+    margin-left: 70px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #232323;
+}
+
+
+.gulnoxa{
+    display: flex;
+    justify-content: end;
+    margin-top: -500px;
+}
+
+
+.alisher{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+    margin-bottom: 50px;
+}
+
+
+.ranoxon{
+    font-weight: 400;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+    color: #232323;
+
+}
+
+
+.farida{
+    margin-left: 150px;
+    margin-top: 65px;
+    margin-bottom: 130px;
+}
+
+
+
+.gulsapsar{
+    margin-left: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+
+.gulsapsarr{
+    margin-left: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 60px;
+}
+
+
+.farzona{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    margin-top: 55px;
+    margin-bottom: 40px;
+}
+
+
+.yashill{
+    margin-top: 40px;
+    display: flex;
+    margin-top: -1px;
+} 
+
+
+.jaloliddin{
+    width: 1160px;
+    height: 485px;
+    background: #F7F7F9;
+    border-radius: 30px;
+}
+
+
+.jaloliddin:hover{
+    background: #FFFFFF;
+    box-shadow: 5px 10px 10px 20px rgba(0, 0, 0, 0.90);
+}
+
+
+
+
+
+.Mohinur{
+    margin-top: 150px;
+    margin-bottom: 140px;
+}
+
+
+.dilshod{
+    margin-top: 50px;
+}
+
+
+.solozolo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.talat{
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #232323;
+    margin-bottom: 30px;
+}
+
+
+.kamol{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    color: #232323;
+}
+
+
+.kamola{
+    display: flex;
+    justify-content: center;
+}
+
+
+.kamron{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+    margin-bottom: 60px;
+}
+
+
+.gulsapsarra{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    color: #232323;
+}
+
+
+.yashilla{
+    margin-top: 40px;
+    display: flex;
+} 
+
+
+.sbbos{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+
+.abbor{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+.toybola{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+    margin-top: 160px;
+    margin-bottom: 80px;
+    margin-left: 65px;
+}
+
+
+.kalmar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 85px;
+}
+
+
+.btn15{
+    padding: 16px 46px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #37C56D;
+    border-radius: 99px;
+    border: none;
+}
+
+
+.alomalar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+
+.odil{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.02em;
+    color: #232323;
+    padding-top: 150px;
+    margin-bottom: 85px;
+    margin-left: 120px;
+}
+
+
+.elshod{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    margin-top: 35px;
+    padding-bottom: 155px;
+
+}
+
+
+.jasur{
+    width: 300px;
+    height: 80px;
+}
+
+
+.tasalli{
+    margin-left: 120px;
+}
+
+
+.sardor{
+    font-weight: 400;
+    font-size: 16px;
+    color: #232323;
+    margin-left: 140px;
+}
+
+
+.davn{
+    margin-bottom: 80px;
+}
+
+
+.davron{
+    margin-left: 70px;
+    margin-top: 65px;
+}
+
+
+.ivan{
+    font-weight: 400;
+    font-size: 16px;
+    color: #828282;
+    padding-bottom: 55px;
+}
+
+
+.getg{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+
+
+.lipok{
+    font-weight: 400;
+    font-size: 16px;
+    color: #BDBDBD;
+}
+
+
+.glolyhhl{
+    padding-top: 65px;
+    margin-left: 20px;
+}
+
+
+.phone{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 6px;
+}
+
+
+.alephand{
+    margin-top: 65px;
+    margin-left: 110px;
+}
+
+
+.qozoq{
+    font-weight: 400;
+    font-size: 16px;
+    color: #BDBDBD;
+}
+
+
+.erlan{
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 15px;
+    background: #4F4F4F;
+    padding: 9px 9px;
+    border-radius: 80px;
+    color: white;
+}
+
+
+.comka{
+    margin-left: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
